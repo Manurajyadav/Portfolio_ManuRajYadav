@@ -1,2 +1,2 @@
 # Portfolio_ManuRajYadav
-[Tap here for a quick preview of our project](https://manurajyadav.github.io/Portfolio_ManuRajYadav/)
+[Tap here to view my Profile](https://manurajyadav.github.io/Portfolio_ManuRajYadav/)
